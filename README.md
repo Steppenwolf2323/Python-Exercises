@@ -1,0 +1,1 @@
+Exercises from the web in order to properly manage the usage of Pyton. A bit of everything, from beginner level to advanced. Different topics are divided in different ipynb files, which names indicate the topic itself.
