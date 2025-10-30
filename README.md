@@ -1,3 +1,4 @@
 Exercises from the web in order to properly manage the usage of Pyton. A bit of everything, from beginner level to advanced. Different topics are divided in different ipynb files, which names indicate the topic itself.
 The main idea behind this repository is to have a place where anyone can find exercises to practice Python programming skills without struggling to find them scattered around the web.
 In fact the plan is to keep adding new exercises over time, covering a wide range of topics and difficulty levels.
+The different exercises in the notebook files are not ordered by difficulty level, so feel free to explore and pick the ones that interest you the most.
